@@ -1,1 +1,1 @@
-# javascript-events-and primitive scope
+# javascript-events
